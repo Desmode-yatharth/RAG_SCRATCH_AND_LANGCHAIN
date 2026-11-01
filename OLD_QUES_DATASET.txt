@@ -1,0 +1,403 @@
+
+{
+  "0": {
+    "question": "What did liberals in nineteenth-century Europe mean by a 'representative, elected parliamentary government,' and why were they not considered 'democrats'?",
+    "answer": "Liberals argued for a representative, elected parliamentary government, subject to laws interpreted by a well-trained judiciary that was independent of rulers and officials. They were not democrats because they did not believe in universal adult franchise; they felt men of property mainly should have the vote, and they did not want the vote for women.",
+    "document": "TEST_HISTORY_RAG_PDF.pdf",
+    "relevant_pages": [1],
+    "relevant_chunk_ids": [1, 2],
+    "status": "Correct"
+  },
+  "1": {
+    "question": "Who was Robert Owen, and what cooperative community did he attempt to build in the USA?",
+    "answer": "Robert Owen (1771-1858) was a leading English manufacturer who sought to build a cooperative community called New Harmony in Indiana (USA).",
+    "document": "TEST_HISTORY_RAG_PDF.pdf",
+    "relevant_pages": [3],
+    "relevant_chunk_ids": [5, 6],
+    "status": "Correct"
+  },
+  "2": {
+    "question": "What percentage of the Russian empire's population earned their living from agriculture at the beginning of the twentieth century, and how did this compare with France and Germany?",
+    "answer": "About 85 per cent of the Russian empire's population earned their living from agriculture. In France and Germany the proportion was between 40 per cent and 50 per cent.",
+    "document": "TEST_HISTORY_RAG_PDF.pdf",
+    "relevant_pages": [5],
+    "relevant_chunk_ids": [8, 9],
+    "status": "Correct"
+  },
+  "3": {
+    "question": "What percentage of the factory labour force in Russia were women by 1914, and how did their wages compare with men's?",
+    "answer": "Women made up 31 per cent of the factory labour force by 1914, but they were paid less than men (between half and three-quarters of a man's wage).",
+    "document": "TEST_HISTORY_RAG_PDF.pdf",
+    "relevant_pages": [5],
+    "relevant_chunk_ids": [8, 9],
+    "status": "Correct"
+  },
+  "4": {
+    "question": "Under the French Constitution of 1791, what criteria distinguished an 'active citizen' entitled to vote from a 'passive citizen'?",
+    "answer": "Active citizens were men above 25 years of age who paid taxes equal to at least 3 days of a labourer's wage. The remaining men and all women were classed as passive citizens.",
+    "document": "TEST_HISTORY_RAG_PDF.pdf",
+    "relevant_pages": [22],
+    "relevant_chunk_ids": [39],
+    "status": "Correct"
+  },
+  "5": {
+    "question": "What was the name of the device used for executions during the Reign of Terror, and after whom was it named?",
+    "answer": "The device was called the guillotine. It consisted of two poles and a blade and was named after Dr Guillotin who invented it.",
+    "document": "TEST_HISTORY_RAG_PDF.pdf",
+    "relevant_pages": [24],
+    "relevant_chunk_ids": [42, 43],
+    "status": "Correct"
+  },
+  "6": {
+    "question": "In what year did women in France finally gain the right to vote?",
+    "answer": "Women in France finally won the right to vote in 1946.",
+    "document": "TEST_HISTORY_RAG_PDF.pdf",
+    "relevant_pages": [26],
+    "relevant_chunk_ids": [46, 47],
+    "status": "Correct"
+  },
+  "7": {
+    "question": "What three Caribbean colonies were important suppliers of commodities for France, and what four major commodities did they supply?",
+    "answer": "The Caribbean colonies were Martinique, Guadeloupe and San Domingo. They supplied tobacco, indigo, sugar and coffee.",
+    "document": "TEST_HISTORY_RAG_PDF.pdf",
+    "relevant_pages": [27],
+    "relevant_chunk_ids": [48, 49],
+    "status": "Correct"
+  },
+  "8": {
+    "question": "What demands did the striking workers in St Petersburg make in early 1905 after the dismissals at the Putilov Iron Works?",
+    "answer": "Over 110,000 workers in St Petersburg went on strike demanding a reduction of the working day to eight hours, an increase in wages, and improvement in working conditions.",
+    "document": "TEST_HISTORY_RAG_PDF.pdf",
+    "relevant_pages": [7],
+    "relevant_chunk_ids": [12, 13],
+    "status": "Correct"
+  },
+  "9": {
+    "question": "What elected body did the Tsar allow to be created during the 1905 Revolution?",
+    "answer": "The Tsar allowed the creation of an elected consultative Parliament or Duma.",
+    "document": "TEST_HISTORY_RAG_PDF.pdf",
+    "relevant_pages": [8],
+    "relevant_chunk_ids": [14, 15],
+    "status": "Correct"
+  },
+  "10": {
+    "question": "How did political views on private property differ among Liberals, Radicals and Socialists in nineteenth-century Europe?",
+    "answer": "Liberals supported private property and individual enterprise. Radicals were not against the existence of private property but disliked its concentration in the hands of a few. Socialists were against private property and saw it as the root of all social ills; they wanted society as a whole rather than single individuals to control property.",
+    "document": "TEST_HISTORY_RAG_PDF.pdf",
+    "relevant_pages": [1, 3],
+    "relevant_chunk_ids": [1, 2, 5, 6],
+    "status": "Correct"
+  },
+  "11": {
+    "question": "How did Vladimir Lenin (Bolsheviks) and the Mensheviks differ regarding the organisational strategy of the party?",
+    "answer": "Lenin (who led the Bolshevik group) thought that in a repressive society like Tsarist Russia the party should be disciplined and should control the number and quality of its members. Others (Mensheviks) thought that the party should be open to all (as in Germany).",
+    "document": "TEST_HISTORY_RAG_PDF.pdf",
+    "relevant_pages": [7],
+    "relevant_chunk_ids": [12, 13],
+    "status": "Correct"
+  },
+  "12": {
+    "question": "How did the relationship between Russian peasants and the nobility differ from that between French peasants in Brittany and their local nobles?",
+    "answer": "In Brittany during the French Revolution, peasants respected nobles and fought for them. In Russia, peasants had no respect for the nobility because nobles got their power and position through their services to the Tsar, not through local popularity. Russian peasants frequently refused to pay rent and even murdered landlords (on a large scale in 1902 and all over Russia in 1905).",
+    "document": "TEST_HISTORY_RAG_PDF.pdf",
+    "relevant_pages": [6],
+    "relevant_chunk_ids": [10, 11],
+    "status": "Correct"
+  },
+  "13": {
+    "question": "What were the main problems faced by industrial workers in Russia at the beginning of the twentieth century?",
+    "answer": "Work hours were often long (sometimes 15 hours in craft units compared with 10 or 12 in factories), wages were poor, unemployment was common, housing and sanitation were problems, and women were paid only between half and three-quarters of a man's wage. Factory inspectors could not prevent rules being broken.",
+    "document": "TEST_HISTORY_RAG_PDF.pdf",
+    "relevant_pages": [5],
+    "relevant_chunk_ids": [8, 9],
+    "status": "Correct"
+  },
+  "14": {
+    "question": "What sequence of events in Petrograd in February 1917 led to the formation of the Petrograd Soviet?",
+    "answer": "On 22 February a lockout took place at a factory. The next day workers in fifty factories called a strike in sympathy (International Women's Day). Demonstrations grew; the government imposed a curfew and suspended the Duma on 25 February. On 27 February the Police Headquarters were ransacked, regiments mutinied and joined the striking workers, and the Petrograd Soviet was formed that evening.",
+    "document": "TEST_HISTORY_RAG_PDF.pdf",
+    "relevant_pages": [9, 10],
+    "relevant_chunk_ids": [16, 17, 18, 19],
+    "status": "Correct"
+  },
+  "15": {
+    "question": "What were the main features of the Constitution of 1791 in France?",
+    "answer": "The Constitution of 1791 limited the powers of the monarch and separated them among the legislature, executive and judiciary, making France a constitutional monarchy. The power to make laws was vested in the National Assembly, which was indirectly elected. Only active citizens (men above 25 who paid taxes equal to at least 3 days of a labourer's wage) could vote; the remaining men and all women were passive citizens.",
+    "document": "TEST_HISTORY_RAG_PDF.pdf",
+    "relevant_pages": [22],
+    "relevant_chunk_ids": [39],
+    "status": "Correct"
+  },
+  "16": {
+    "question": "How did Tsar Nicholas II limit the power of the Duma after the 1905 Revolution?",
+    "answer": "The Tsar dismissed the first Duma within 75 days and the re-elected second Duma within three months. He changed the voting laws and packed the third Duma with conservative politicians; liberals and revolutionaries were kept out.",
+    "document": "TEST_HISTORY_RAG_PDF.pdf",
+    "relevant_pages": [8],
+    "relevant_chunk_ids": [14, 15],
+    "status": "Correct"
+  },
+  "17": {
+    "question": "Who were the 'sans-culottes', what did their name literally mean, and how did their attire symbolise their political identity?",
+    "answer": "The sans-culottes were Jacobin members from the less prosperous sections of society (small shopkeepers, artisans, servants and daily-wage workers). The name literally means 'those without knee breeches'. They wore long striped trousers similar to those worn by dock workers and red caps that symbolised liberty, to set themselves apart from the nobles who wore knee breeches.",
+    "document": "TEST_HISTORY_RAG_PDF.pdf",
+    "relevant_pages": [23, 24],
+    "relevant_chunk_ids": [40, 41, 42, 43],
+    "status": "Correct"
+  },
+  "18": {
+    "question": "What happened on Bloody Sunday in 1905 and what were its immediate consequences?",
+    "answer": "A procession of workers led by Father Gapon reached the Winter Palace and was attacked by the police and the Cossacks. Over 100 workers were killed and about 300 wounded. The incident started a series of events known as the 1905 Revolution: strikes took place all over the country, universities closed down, and middle-class professionals established the Union of Unions and demanded a constituent assembly.",
+    "document": "TEST_HISTORY_RAG_PDF.pdf",
+    "relevant_pages": [7],
+    "relevant_chunk_ids": [12, 13],
+    "status": "Correct"
+  },
+  "19": {
+    "question": "What mandatory measures did Robespierre enforce regarding food, forms of address and churches during the Reign of Terror?",
+    "answer": "Meat and bread were rationed; the use of white flour was forbidden and all citizens were required to eat pain d'égalité (equality bread made of wholewheat). Instead of Monsieur and Madame, all French men and women were to be addressed as Citoyen and Citoyenne. Churches were shut down and their buildings converted into barracks or offices.",
+    "document": "TEST_HISTORY_RAG_PDF.pdf",
+    "relevant_pages": [24],
+    "relevant_chunk_ids": [42, 43],
+    "status": "Correct"
+  },
+  "20": {
+    "question": "How did Russian peasants traditionally manage land, and what demand did the Socialist Revolutionary Party make?",
+    "answer": "Russian peasants pooled their land together periodically and their commune (mir) divided it according to the needs of individual families. The Socialist Revolutionary Party struggled for peasants' rights and demanded that land belonging to nobles be transferred to peasants.",
+    "document": "TEST_HISTORY_RAG_PDF.pdf",
+    "relevant_pages": [6],
+    "relevant_chunk_ids": [10, 11],
+    "status": "Correct"
+  },
+  "21": {
+    "question": "What economic controls did Robespierre's government impose during the Reign of Terror (1793–1794)?",
+    "answer": "The government issued laws placing a maximum ceiling on wages and prices. Meat and bread were rationed. Peasants were forced to transport their grain to the cities and sell it at prices fixed by the government. The use of more expensive white flour was forbidden; all citizens had to eat pain d'égalité.",
+    "document": "TEST_HISTORY_RAG_PDF.pdf",
+    "relevant_pages": [24],
+    "relevant_chunk_ids": [42, 43],
+    "status": "Correct"
+  },
+  "22": {
+    "question": "How did foreign powers react to the French Revolution in 1792, and what was the French response?",
+    "answer": "Rulers of other neighbouring countries were worried by the developments in France and made plans to send troops. Before this could happen, the National Assembly voted in April 1792 to declare war against Prussia and Austria.",
+    "document": "TEST_HISTORY_RAG_PDF.pdf",
+    "relevant_pages": [23],
+    "relevant_chunk_ids": [40, 41],
+    "status": "Correct"
+  },
+  "23": {
+    "question": "Trace the legal status of slavery in the French colonies from the eighteenth century to 1848.",
+    "answer": "Throughout the eighteenth century there was little criticism of slavery in France. The Convention in 1794 legislated to free all slaves in the French overseas possessions. Ten years later Napoleon reintroduced slavery. Slavery was finally abolished in French colonies in 1848.",
+    "document": "TEST_HISTORY_RAG_PDF.pdf",
+    "relevant_pages": [27],
+    "relevant_chunk_ids": [48, 49],
+    "status": "Correct"
+  },
+  "24": {
+    "question": "What political and social gains did women make during the early years of the French Revolution, and when did they finally obtain the vote?",
+    "answer": "Women formed political clubs (about sixty clubs came up; the Society of Revolutionary and Republican Women was the most famous). Early revolutionary laws made schooling compulsory for girls, made marriage a contract entered into freely, legalised divorce for both women and men, and allowed women to train for jobs. They were classed as passive citizens in 1791 and their clubs were banned during the Reign of Terror. Women in France won the right to vote in 1946.",
+    "document": "TEST_HISTORY_RAG_PDF.pdf",
+    "relevant_pages": [25, 26],
+    "relevant_chunk_ids": [44, 45, 46, 47],
+    "status": "Correct"
+  },
+  "25": {
+    "question": "How did freedom of the press change in France after the storming of the Bastille?",
+    "answer": "One important law that came into effect soon after the storming of the Bastille was the abolition of censorship. The Declaration of the Rights of Man and Citizen proclaimed freedom of speech and expression to be a natural right. Newspapers, pamphlets, books and printed pictures flooded the towns of France and travelled rapidly into the countryside.",
+    "document": "TEST_HISTORY_RAG_PDF.pdf",
+    "relevant_pages": [28],
+    "relevant_chunk_ids": [50, 51],
+    "status": "Correct"
+  },
+  "26": {
+    "question": "How did the voting franchise change in France from the Estates General of 1789 to the National Convention of 1792?",
+    "answer": "In the Estates General voting was by estate. The Constitution of 1791 created an indirectly elected National Assembly in which only active citizens (men above 25 who paid taxes equal to at least 3 days of a labourer's wage) could vote. In September 1792 the newly elected Convention abolished the monarchy and granted the right to vote to all men of 21 years and above, regardless of wealth.",
+    "document": "TEST_HISTORY_RAG_PDF.pdf",
+    "relevant_pages": [21, 22, 24],
+    "relevant_chunk_ids": [37, 38, 39, 42, 43],
+    "status": "Correct"
+  },
+  "27": {
+    "question": "What were the human and economic costs of Russia's involvement in the First World War up to 1917?",
+    "answer": "There were over 7 million casualties by 1917. As the Russian army retreated it destroyed crops and buildings, leading to over 3 million refugees. Railway lines began to break down, able-bodied men were called up creating labour shortages, and by the winter of 1916 bread and flour became scarce in the cities, with riots at bread shops becoming common.",
+    "document": "TEST_HISTORY_RAG_PDF.pdf",
+    "relevant_pages": [8, 9],
+    "relevant_chunk_ids": [14, 15, 16, 17],
+    "status": "Correct"
+  },
+  "28": {
+    "question": "What international body did socialists form in the 1870s to coordinate their efforts across Europe?",
+    "answer": "By the 1870s socialist ideas had spread through Europe and socialists formed an international body — namely, the Second International.",
+    "document": "TEST_HISTORY_RAG_PDF.pdf",
+    "relevant_pages": [4],
+    "relevant_chunk_ids": [7],
+    "status": "Correct"
+  },
+  "29": {
+    "question": "How did Indian thinkers respond to the ideas of the French Revolution according to the text?",
+    "answer": "In India, Raja Rammohan Roy and Derozio talked of the significance of the French Revolution. Tipu Sultan and Rammohan Roy are given as examples of individuals who responded to the ideas coming from revolutionary France. Nationalists elsewhere, including India, also read the writings of Giuseppe Mazzini.",
+    "document": "TEST_HISTORY_RAG_PDF.pdf",
+    "relevant_pages": [0, 2, 28],
+    "relevant_chunk_ids": [0, 3, 4, 50, 51],
+    "status": "Correct"
+  },
+  "30": {
+    "question": "Who was Giuseppe Mazzini and what role did Italian nationalists play after 1815?",
+    "answer": "Giuseppe Mazzini was an Italian nationalist who, after 1815, conspired with others to achieve a nation where all citizens would have equal rights, in Italy. Nationalists elsewhere — including India — read his writings.",
+    "document": "TEST_HISTORY_RAG_PDF.pdf",
+    "relevant_pages": [2],
+    "relevant_chunk_ids": [3, 4],
+    "status": "Correct"
+  },
+  "31": {
+    "question": "What specific events occurred during 'Bloody Sunday' in 1905, who led the procession, and what were the immediate casualties?",
+    "answer": "A procession of workers led by Father Gapon reached the Winter Palace and was attacked by the police and the Cossacks. Over 100 workers were killed and about 300 wounded. This incident started a series of events that became known as the 1905 Revolution.",
+    "document": "TEST_HISTORY_RAG_PDF.pdf",
+    "relevant_pages": [7],
+    "relevant_chunk_ids": [12, 13],
+    "status": "Correct"
+  },
+  "32": {
+    "question": "What was the Directory in post-Jacobin France and why was it structured with five members?",
+    "answer": "After the fall of the Jacobin government a new constitution provided for two elected legislative councils that appointed a Directory, an executive made up of five members. This was meant as a safeguard against the concentration of power in a one-man executive as under the Jacobins. The Directors often clashed with the legislative councils, and the political instability paved the way for the rise of Napoleon Bonaparte.",
+    "document": "TEST_HISTORY_RAG_PDF.pdf",
+    "relevant_pages": [25],
+    "relevant_chunk_ids": [44, 45],
+    "status": "Correct"
+  },
+  "33": {
+    "question": "What panic swept through the French countryside in the summer of 1789, and how did peasants react?",
+    "answer": "Rumours spread from village to village that the lords of the manor had hired bands of brigands who were on their way to destroy the ripe crops. Caught in a frenzy of fear, peasants in several districts seized hoes and pitchforks and attacked châteaux. They looted hoarded grain and burnt down documents containing records of manorial dues.",
+    "document": "TEST_HISTORY_RAG_PDF.pdf",
+    "relevant_pages": [21],
+    "relevant_chunk_ids": [37, 38],
+    "status": "Correct"
+  },
+  "34": {
+    "question": "Who was Abbé Sieyès and what influential pamphlet did he write?",
+    "answer": "Abbé Sieyès, originally a priest, wrote an influential pamphlet called What is the Third Estate?",
+    "document": "TEST_HISTORY_RAG_PDF.pdf",
+    "relevant_pages": [21],
+    "relevant_chunk_ids": [37, 38],
+    "status": "Correct"
+  },
+  "35": {
+    "question": "What was the 'Marseillaise', who composed it, and how did it become associated with the French Revolution?",
+    "answer": "The Marseillaise was a patriotic song composed by the poet Roget de L'Isle. It was sung for the first time by volunteers from Marseilles as they marched into Paris and so got its name. It is now the national anthem of France.",
+    "document": "TEST_HISTORY_RAG_PDF.pdf",
+    "relevant_pages": [23],
+    "relevant_chunk_ids": [40, 41],
+    "status": "Correct"
+  },
+  "36": {
+    "question": "What happened to Louis XVI after France became a republic?",
+    "answer": "Louis XVI was sentenced to death by a court on the charge of treason. On 21 January 1793 he was executed publicly at the Place de la Concorde. The queen Marie Antoinette met with the same fate shortly after.",
+    "document": "TEST_HISTORY_RAG_PDF.pdf",
+    "relevant_pages": [24],
+    "relevant_chunk_ids": [42, 43],
+    "status": "Correct"
+  },
+  "37": {
+    "question": "What political clubs did women form during the French Revolution, what were their main demands, and how did the government respond during the Reign of Terror?",
+    "answer": "Women started their own political clubs and newspapers; about sixty women's clubs came up in different French cities. The Society of Revolutionary and Republican Women was the most famous. Their main demand was that women enjoy the same political rights as men (the right to vote, to be elected to the Assembly and to hold political office). During the Reign of Terror the government ordered the closure of women's clubs and banned their political activities; many prominent women were arrested and a number executed.",
+    "document": "TEST_HISTORY_RAG_PDF.pdf",
+    "relevant_pages": [25, 26],
+    "relevant_chunk_ids": [44, 45, 46, 47],
+    "status": "Correct"
+  },
+  "38": {
+    "question": "How did Russian peasants differ from other European peasants in the way they managed land?",
+    "answer": "Russian peasants were different from other European peasants in that they pooled their land together periodically and their commune (mir) divided it according to the needs of individual families.",
+    "document": "TEST_HISTORY_RAG_PDF.pdf",
+    "relevant_pages": [6],
+    "relevant_chunk_ids": [10, 11],
+    "status": "Correct"
+  },
+  "39": {
+    "question": "What was the impact of the First World War on Russian industry and urban food supply by the winter of 1916?",
+    "answer": "Russia's own industries were few and the country was cut off from other suppliers by German control of the Baltic Sea. Industrial equipment disintegrated, railway lines began to break down, able-bodied men were called up creating labour shortages, and large supplies of grain were sent to feed the army. By the winter of 1916 bread and flour became scarce in the cities and riots at bread shops were common.",
+    "document": "TEST_HISTORY_RAG_PDF.pdf",
+    "relevant_pages": [8, 9],
+    "relevant_chunk_ids": [14, 15, 16, 17],
+    "status": "Correct"
+  },
+  "40": {
+    "question": "What is the core rule regarding the fundamental purpose of data tables according to accessibility guidelines?",
+    "answer": "Use tables to organize data, not to format information. Never use a table for layout. Simple tables are easier to interpret for all students and screen readers.",
+    "document": "Table-Examples.pdf",
+    "relevant_pages": [0],
+    "relevant_chunk_ids": [52],
+    "status": "Correct"
+  },
+  "41": {
+    "question": "What four structural cell formatting practices must be avoided when designing accessible tables?",
+    "answer": "Avoid merging cells, split cells, nested cells within a cell, and blank cells.",
+    "document": "Table-Examples.pdf",
+    "relevant_pages": [0],
+    "relevant_chunk_ids": [52],
+    "status": "Correct"
+  },
+  "42": {
+    "question": "Instead of using a table to format course information layout, what alternative formatting methods are recommended?",
+    "answer": "Use tabs position or columns format.",
+    "document": "Table-Examples.pdf",
+    "relevant_pages": [0],
+    "relevant_chunk_ids": [52],
+    "status": "Correct"
+  },
+  "43": {
+    "question": "When a table heading like 'Grading Scale' is placed inside a merged cell, what is the best-practice solution?",
+    "answer": "Move the heading 'Grading Scale' out of the table instead of merging cells.",
+    "document": "Table-Examples.pdf",
+    "relevant_pages": [0],
+    "relevant_chunk_ids": [52],
+    "status": "Correct"
+  },
+  "44": {
+    "question": "Why should hyphens or dashes be avoided in grade ranges, and how should they be formatted for screen readers?",
+    "answer": "Screen readers do not know whether the '-' symbol is a minus, hyphen, dash, en dash or em dash, so it will not be read. Ranges should be written with words such as 'to' or 'minus' (e.g., '960 to 1000', 'A minus').",
+    "document": "Table-Examples.pdf",
+    "relevant_pages": [1],
+    "relevant_chunk_ids": [53],
+    "status": "Correct"
+  },
+  "45": {
+    "question": "How should a single table containing mixed categories (Reading Assignments and Writing Projects) be restructured for accessibility?",
+    "answer": "Separate them into two distinct tables, each with its own header row.",
+    "document": "Table-Examples.pdf",
+    "relevant_pages": [1],
+    "relevant_chunk_ids": [53],
+    "status": "Correct"
+  },
+  "46": {
+    "question": "What is the primary accessibility hazard of using colour alone to indicate project status in a data table?",
+    "answer": "Using colour alone fails to convey information to colour-blind users (for whom completed and incomplete items may appear the same) and to screen-reader users who cannot perceive colour.",
+    "document": "Table-Examples.pdf",
+    "relevant_pages": [2],
+    "relevant_chunk_ids": [54],
+    "status": "Correct"
+  },
+  "47": {
+    "question": "In a project-completion tracking table, what alternative textual cues should be used instead of colour indicators?",
+    "answer": "Provide explicit textual cues such as 'Y or Yes' for completed items and 'N or No' for incomplete items.",
+    "document": "Table-Examples.pdf",
+    "relevant_pages": [2],
+    "relevant_chunk_ids": [54],
+    "status": "Correct"
+  },
+  "48": {
+    "question": "In the sample 'Grading Scale' table, what point and percentage boundaries define an 'A plus' grade versus an 'A' grade?",
+    "answer": "An 'A plus' grade is 960 to 1000 points (96 to 100 %). An 'A' grade is 930 to 959 points (93 to 95 %).",
+    "document": "Table-Examples.pdf",
+    "relevant_pages": [0, 1],
+    "relevant_chunk_ids": [52, 53],
+    "status": "Correct"
+  },
+  "49": {
+    "question": "In Example 3 (Reading Assignments and Writing Projects), what are the exact due dates for Reading 1, Reading 2, Writing 1 and Writing 2?",
+    "answer": "Reading 1: 7/22/2021; Reading 2: 7/23/2021; Writing 1: 8/1/2021; Writing 2: 9/1/2021.",
+    "document": "Table-Examples.pdf",
+    "relevant_pages": [1],
+    "relevant_chunk_ids": [53],
+    "status": "Correct"
+  }
+}
